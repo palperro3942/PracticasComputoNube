@@ -20,7 +20,7 @@ class MainDrawer extends StatelessWidget {
               ),
               const SizedBox(height: 5.0),
               const Text(
-                'Saul Recio',
+                'Julio Alvarez',
                 style: TextStyle(fontSize: 22.0),
               ),
               const SizedBox(height: 5.0),
